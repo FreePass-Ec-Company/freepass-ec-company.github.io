@@ -44,7 +44,7 @@ html{
 .categorias{
     display: flex;
     margin-top: 75px;
-    margin-left: 65px;
+    margin-left: 0px;
 }
 
 .accesorios-tienda{
@@ -53,10 +53,12 @@ html{
 
 .coleccion{
     border-radius: 27px;
+    margin-right: -40px;
+    margin-left: 40px;
 }
 
 .accesorios{
-    margin-left: 47px;
+    margin-left: 40px;
     margin-right: -35px;
 }
 
@@ -290,7 +292,7 @@ li a.active, li a:hover{
     }
 
     .coleccion{
-        margin-right: -115px;
+        margin-right: -60px;
     }
 
     .coleccion img{
@@ -317,7 +319,7 @@ li a.active, li a:hover{
     }
 
     .accesorios{
-        margin-right: -60px;
+        margin-right: -55px;
     }
 
     .checkbtn{
