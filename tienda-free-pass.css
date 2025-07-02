@@ -51,6 +51,14 @@ html{
     border-radius: 27px;
 }
 
+
+.coleccioon{
+    border-radius: 27px;
+    margin-right: -40px;
+    margin-left: 40px;
+}
+
+
 .coleccion{
     border-radius: 27px;
     margin-right: -40px;
@@ -63,7 +71,8 @@ html{
 }
 
 .accesorios-tienda{
-    margin-left: 31.2px;
+    margin-left: 80px;
+    margin-right: -40px;
 }
 
 .cuadrado{
@@ -302,7 +311,7 @@ li a.active, li a:hover{
     .coleccioon img{
         width: 600px;
         height: 820px;
-        margin-left: -90px;
+        margin-left: 0px;
     }
 
     .accesorios-tienda img{
