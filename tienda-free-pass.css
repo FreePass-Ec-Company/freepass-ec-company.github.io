@@ -210,9 +210,20 @@ li a.active, li a:hover{
     display: none;
 }
 
+.tipologia{
+    margin-left: 42.5px;
+    justify-items: auto;
+}
+
 
 
 @media (max-width: 1200px) {
+
+    .tipologia{
+        padding-right: -500px;
+        margin-top: 50px;
+        font-size: 50px;
+    }
 
         #medida img{
             height: 40px;
