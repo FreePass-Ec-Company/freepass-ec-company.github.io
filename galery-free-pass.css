@@ -488,7 +488,10 @@ footer{
 
 @media (max-width: 1200px) {
 
-
+    .titulo-galeria{
+        margin-left: 400px;
+        font-size: 42px;
+    }
 
    h1 {
         font-size: 35px;
@@ -683,5 +686,7 @@ footer{
         margin-top: 50px;
     }
 }
+
+
 
 
