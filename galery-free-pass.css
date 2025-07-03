@@ -501,18 +501,21 @@ footer{
         font-size: 30px;
     }
 
-
     .carrito{
         float: left;
-        margin-left: 50px;
-        margin-top: 30px;
-        font-size: 45px;
+        margin-left: 68px;
+        margin-top: 43px;
+        font-size: 60px;
         cursor: pointer;
     }
 
+    
+
     .checkbtn{
         display: block;
-        margin-right: -300px;
+        margin-right: -287px;
+        font-size: 65px;
+        margin-top: 12px;
     }
 
     ul{
@@ -536,7 +539,8 @@ footer{
     }
 
     .menus{
-        margin-top: 175px;
+        margin-top: 260px;
+
     }
 
     nav ul li{
@@ -546,7 +550,7 @@ footer{
     }
 
     nav ul li a{
-        font-size: 70px;
+        font-size: 90px;
     }
 
     li a:hover, li a.active{
@@ -562,7 +566,10 @@ footer{
         display: block;
         flex-direction: column;
         margin: 0px auto 0 auto;
-        margin-left: -0px;
+        margin-top: 7px;
+        margin-left: -68px;
+        width: 338px;
+        height: 100px;
     }
 
     .imagen-izq{
@@ -686,7 +693,6 @@ footer{
         margin-top: 50px;
     }
 }
-
 
 
 
